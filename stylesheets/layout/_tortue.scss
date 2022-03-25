@@ -1,0 +1,24 @@
+.tortue {
+  .big-triangle-1 {
+    transform: translate(40%, 100%) rotate(0deg);
+  }
+  .big-triangle-2 {
+    transform: translate(-60%, 100%) rotate(270deg);
+  }
+  .medium-triangle {
+    transform: translate(-20%, 160%) rotate(45deg);
+  }
+
+  .small-triangle-1 {
+    transform: translate(-44%, 15%) rotate(225deg);
+  }
+  .small-triangle-2 {
+    transform: translate(-44%, 150%) rotate(225deg);
+  }
+  .small-square {
+    transform: translate(65%, 125%) rotate(0deg);
+  }
+  .parallelogram {
+    transform: translate(65.5%, 25.5%) rotate(360deg) scaleX(-1);
+  }
+}

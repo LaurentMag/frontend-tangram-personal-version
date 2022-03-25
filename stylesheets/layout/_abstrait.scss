@@ -1,0 +1,23 @@
+.abstrait {
+  .big-triangle-1 {
+    transform: translate(60%, 100%) rotate(320deg);
+  }
+  .big-triangle-2 {
+    transform: translate(15%, 100%) rotate(20deg);
+  }
+  .medium-triangle {
+    transform: translate(-100%, 135%) rotate(315deg);
+  }
+  .small-triangle-1 {
+    transform: translate(60%, 135.2%) rotate(10deg);
+  }
+  .small-triangle-2 {
+    transform: translate(120%, 64.5%) rotate(80deg);
+  }
+  .small-square {
+    transform: translate(15%, 100%) rotate(45deg);
+  }
+  .parallelogram {
+    transform: translate(15%, -6%) rotate(10deg);
+  }
+}

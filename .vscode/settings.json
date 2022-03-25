@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    "package-lock.json": true,
+    "LICENSE.txt": true,
+    "package.json": true,
+    "robots.txt": true,
+    "site.webmanifest": true,
+    "humans.txt": true,
+    "browserconfig.xml": true,
+    "404.html": true,
+    "doc": true
+  }
+}

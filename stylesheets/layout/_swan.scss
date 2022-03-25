@@ -1,0 +1,27 @@
+.swan {
+  .big-triangle-1 {
+    transform: translate(-23%, 118%) rotate(135deg);
+  }
+
+  .big-triangle-2 {
+    transform: translate(30%, 97%) rotate(180deg);
+  }
+  .medium-triangle {
+    transform: translate(10%, 82%) rotate(225deg);
+  }
+  .small-triangle-1 {
+    transform: translate(-1%, -13%) rotate(315deg);
+  }
+
+  .small-triangle-2 {
+    transform: translate(-36%, 54%) rotate(179deg);
+  }
+
+  .small-square {
+    transform: translate(-35%, 53%) rotate(0deg);
+  }
+  .parallelogram {
+    transform: translate(-59%, -24%) rotate(0deg);
+  }
+
+}

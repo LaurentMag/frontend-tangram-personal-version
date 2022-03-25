@@ -1,0 +1,23 @@
+.pomme {
+  .big-triangle-1 {
+    transform: translate(15%, 100%) rotate(225deg);
+  }
+  .big-triangle-2 {
+    transform: translate(15%, 100%) rotate(45deg);
+  }
+  .medium-triangle {
+    transform: translate(-20%, 135.5%) rotate(315deg);
+  }
+  .small-triangle-1 {
+    transform: translate(50%, 135.2%) rotate(45deg);
+  }
+  .small-triangle-2 {
+    transform: translate(15%, 64.5%) rotate(135deg);
+  }
+  .small-square {
+    transform: translate(15%, 100%) rotate(45deg);
+  }
+  .parallelogram {
+    transform: translate(15%, -6%) rotate(45deg);
+  }
+}

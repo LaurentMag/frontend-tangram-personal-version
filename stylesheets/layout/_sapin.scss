@@ -1,0 +1,28 @@
+.sapin {
+  .big-triangle-1 {
+    transform: translate(50%, 100%) rotate(135deg);
+  }
+
+  .big-triangle-2 {
+    transform: translate(50%, 100%) rotate(135deg);
+  }
+  .medium-triangle {
+    transform: translate(50%, 65%) rotate(-45deg);
+  }
+
+  .small-triangle-1 {
+    transform: translate(-21%, 29.7%) rotate(135deg);
+  }
+
+  .small-triangle-2 {
+    transform: translate(14.5%, 65%) rotate(225deg);
+  }
+
+  .small-square {
+    transform: translate(32%, 135.5%) rotate(45deg);
+  }
+
+  .parallelogram {
+    transform: translate(50%, 65%) rotate(-45deg);
+  }
+}
